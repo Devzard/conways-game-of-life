@@ -1,4 +1,3 @@
-from typing import Pattern
 import numpy as np
 
 
